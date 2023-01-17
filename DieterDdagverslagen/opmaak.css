@@ -21,6 +21,15 @@ a{
 a:hover{
     font-weight: 600;
 }
+#contact{
+    text-decoration: none;
+    color: #747474;
+    font-family: "Lato", Sans-serif;
+    font-weight: 400;
+}
+#contact:hover{
+    font-weight: 600;
+}
 h1{
     font-family: "Cera Pro", Sans-serif;
     font-weight: 900;
